@@ -1,0 +1,17 @@
+-r--r--r--   1 ftp      anonymous     1406 Aug  2  2020 GCF_004683965.1_ASM468396v1_assembly_report.txt
+-r--r--r--   1 ftp      anonymous     5614 Apr 10 21:54 GCF_004683965.1_ASM468396v1_assembly_stats.txt
+-r--r--r--   1 ftp      anonymous  1217529 Apr 10 21:54 GCF_004683965.1_ASM468396v1_cds_from_genomic.fna.gz
+-r--r--r--   1 ftp      anonymous      266 Apr 10 21:54 GCF_004683965.1_ASM468396v1_feature_count.txt.gz
+-r--r--r--   1 ftp      anonymous   171548 Apr 10 21:54 GCF_004683965.1_ASM468396v1_feature_table.txt.gz
+-r--r--r--   1 ftp      anonymous  1114496 Mar 29  2020 GCF_004683965.1_ASM468396v1_genomic.fna.gz
+-r--r--r--   1 ftp      anonymous  2820115 Apr 10 21:54 GCF_004683965.1_ASM468396v1_genomic.gbff.gz
+-r--r--r--   1 ftp      anonymous   284209 Apr 10 21:54 GCF_004683965.1_ASM468396v1_genomic.gff.gz
+-r--r--r--   1 ftp      anonymous   350523 Apr 10 21:54 GCF_004683965.1_ASM468396v1_genomic.gtf.gz
+-r--r--r--   1 ftp      anonymous   772789 Apr 10 21:54 GCF_004683965.1_ASM468396v1_protein.faa.gz
+-r--r--r--   1 ftp      anonymous  1965804 Apr 10 21:54 GCF_004683965.1_ASM468396v1_protein.gpff.gz
+-r--r--r--   1 ftp      anonymous     4779 Mar 30  2021 GCF_004683965.1_ASM468396v1_rna_from_genomic.fna.gz
+-r--r--r--   1 ftp      anonymous   893878 Apr 10 21:54 GCF_004683965.1_ASM468396v1_translated_cds.faa.gz
+lr--r--r--   1 ftp      anonymous       25 Apr  8  2019 README.txt -> ../../../../../README.txt
+-r--r--r--   1 ftp      anonymous      410 Apr 10 21:54 annotation_hashes.txt
+-r--r--r--   1 ftp      anonymous       14 Jun  8 04:23 assembly_status.txt
+-r--r--r--   1 ftp      anonymous     1133 Apr 10 21:54 md5checksums.txt

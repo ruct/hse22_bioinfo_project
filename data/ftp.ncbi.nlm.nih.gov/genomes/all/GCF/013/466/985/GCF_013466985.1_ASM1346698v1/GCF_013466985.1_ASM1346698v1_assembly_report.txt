@@ -1,0 +1,33 @@
+# Assembly name:  ASM1346698v1
+# Organism name:  Nocardioides ungokensis (high GC Gram+)
+# Infraspecific name:  strain=LMG 28591
+# Taxid:          1643322
+# BioSample:      SAMN15542937
+# BioProject:     PRJNA646409
+# Submitter:      Chinese Center for Disease Control and Prevention
+# Date:           2020-07-22
+# Assembly type:  na
+# Release type:   major
+# Assembly level: Complete Genome
+# Genome representation: full
+# Assembly method: HGAP v. 4.0
+# Expected final version: yes
+# Genome coverage: 150.0x
+# Sequencing technology: PacBio RSII
+# Relation to type material: assembly from type material
+# RefSeq category: Representative Genome
+# GenBank assembly accession: GCA_013466985.1
+# RefSeq assembly accession: GCF_013466985.1
+# RefSeq assembly and GenBank assemblies identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_013467015.1	GCF_013467015.1	Primary Assembly
+#
+# Ordered by chromosome/plasmid; the chromosomes/plasmids are followed by
+# unlocalized scaffolds.
+# Unplaced scaffolds are listed at the end.
+# RefSeq is equal or derived from GenBank object.
+#
+# Sequence-Name	Sequence-Role	Assigned-Molecule	Assigned-Molecule-Location/Type	GenBank-Accn	Relationship	RefSeq-Accn	Assembly-Unit	Sequence-Length	UCSC-style-name
+ANONYMOUS	assembled-molecule	na	Chromosome	CP059164.1	=	NZ_CP059164.1	Primary Assembly	4624782	na
