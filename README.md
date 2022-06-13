@@ -1,4 +1,4 @@
-Google колаб: <https://colab.research.google.com/drive/1FBPcuK243AwkyYU3NAYxGIfAm_4Q0lL-?usp=sharing>
+[Google колаб](https://colab.research.google.com/drive/1FBPcuK243AwkyYU3NAYxGIfAm_4Q0lL-?usp=sharing)
 
 ## Общая информация
 
